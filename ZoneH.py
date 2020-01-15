@@ -7,7 +7,7 @@
 
 # - - - Panduan - - -
 
-# Buat File Dengan Extensi .txt Dan Masukkan Kumpulan Site Yang Sudah Kalian Deface Ke File Tersebut Lalu Simpan ( Simpan File Ini Dengan Syarat : Harus 1 Direktori Bersamaan Dengan File ZoneH.py ), Kalo Ga Mau Ribet Isi Aja Kumpulan Sitenya Di Mirror.txt Yang Udah Disediain
+# Buat File Dengan Extensi .txt Dan Masukkan Kumpulan Site Yang Sudah Kalian Deface Ke File Tersebut Lalu Simpan ( Simpan File Ini Dengan Syarat : Harus 1 Direktori Bersamaan Dengan File ZoneH.py ), Kalo Ga Mau Ribet Isi Aja Kumpulan Sitenya Di Mirror.txt Yang Udah Disediain Caranya $ nano Mirror.txt, Tinggal Isi Sama Site Yang Mau Di Mirror
 
 # - - - - - - - - - - - -
 
